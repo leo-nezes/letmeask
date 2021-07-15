@@ -59,7 +59,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[SASS](https://sass-lang.com/)**
--   **[Typescript](https://www.typescriptlang.org/)**
 -   **[Firebase Realtime Database](https://firebase.google.com/docs/database)**
 
 > Veja o arquivo  [package.json](https://github.com/leo-nezes/letmeask/blob/main/package.json)
