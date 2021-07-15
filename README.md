@@ -8,10 +8,10 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a> •
  <a href="#-layout-web">Layout Web</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-futuras-implementacoes">Futuras implementações</a> •
+ <a href="#%EF%B8%8F-tecnologias">Tecnologias</a> • 
+ <a href="#-futuras-implementações">Futuras implementações</a> •
  <a href="#-como-contribuir-para-o-projeto">Como contribuir para o projeto</a> • 
 </p>
 
