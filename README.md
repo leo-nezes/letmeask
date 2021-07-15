@@ -19,9 +19,7 @@
 ## 💻 Sobre o projeto
 O LetmeAsk é uma aplicação web desenvolvida com o intuito de agilizar a comunicação entre os participantes de uma transmissão ao vivo e a audiência.
 
-Projeto desenvolvido durante o **Bootcamp Ignite** da [Rocketseat](https://rocketseat.com.br/ignite). Programa focado na aceleração de carreira dos Devs. 
-
-utilizando as tecnologias ReactJs, Typescript, SASS e o realtime database do Firebase. 
+Projeto desenvolvido durante o **Next Level Week - Together** da [Rocketseat](https://rocketseat.com.br). Programa intensivo, de uma semana, para apresentar aos devs novas ferramentas e aplicar seus conhecimentos em projetos reais.
 
 ---
 
